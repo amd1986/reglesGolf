@@ -1,0 +1,9 @@
+Etapes pour faire un pull :
+
+-> mkdir "NomDuDossier" => Se placer dans un répertoire et créer un dossier avec la commande "mkdir" ou depuis l'explorateur de fichier
+-> cd "NomDuDossier" => Se déplacer dans le dossier de l'appli
+-> git init => Pour créer et initialiser le dépôt local
+-> git remote add origin https://github.com/amd1986/reglesGolf.git => Pour se brancher à un dépôt distant
+-> git pull origin master => Pour récupérer le contenu du dépôt distant sur la branche "master"
+
+On créera et on supprimera par la suite des branches dans notre projet en fonction des besoins
