@@ -6,4 +6,4 @@ Etapes pour faire un pull :
 -> git remote add origin https://github.com/amd1986/reglesGolf.git => Pour se brancher à un dépôt distant
 -> git pull origin master => Pour récupérer le contenu du dépôt distant sur la branche "master"
 
-On créera et on supprimera par la suite des branches dans notre projet en fonction des besoins
+On créera et on supprimera par la suite des branches dans notre projet en fonction des besoins c
