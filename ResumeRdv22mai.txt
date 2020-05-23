@@ -1,0 +1,19 @@
+-------------------------  Questions à Mr Varni :
+
+	1- Comment l'utilisateur séctionne sa langue ?
+	2- Comment le premier User Admin est initialisé (Creer),Le dev ? Ou Formulaire?
+	3- Pourquoi un Editeur et un Gestionnaire? Fonction Semblable ..
+	4- La limites d'utilisation lié au langues au Editeur? Plus de détails. 
+	
+
+------------------------ FAQ :
+
+	1- Quelles diagrammes fournir ? Question s/Réponses dans le reac ou au prof .
+	
+
+-----------------------Todo list :
+
+	1- Ce concentrer sur le diagrammes de classe (Structure du projet).
+	2- Anticiper les différentes methodes complexe sur à aborder (Format doc,Langues de l'app).
+
+PROCHAIN RDV Lundi 15h . 
